@@ -1,1 +1,46 @@
 *{margin: 0; padding: 0;}
+
+/**
+ * header
+ */
+header{
+	display: block;
+	width: 100%;
+	background-color: black;
+}
+
+nav{
+	display: block;
+	width: 80%;
+	margin: auto;
+}
+
+nav.menuTop ul{
+	
+}
+
+ul.menu-right{
+	
+}
+
+nav.menuTop ul li{
+	display: inline-block;
+	color: white;
+	font-size: 20px;
+	padding: 15px 20px;
+}
+
+
+
+nav.menuTop ul li:hover{
+	background: #ABA9A9;
+}
+
+/**
+ * 
+ */
+
+section{
+	width: 80%;
+	margin: auto;
+}
