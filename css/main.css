@@ -26,8 +26,14 @@ ul.menu-right{
 nav.menuTop ul li{
 	display: inline-block;
 	color: white;
+}
+
+nav.menuTop ul li a{
+	display: block;
+	color: white;
 	font-size: 20px;
 	padding: 15px 20px;
+	text-decoration: none;
 }
 
 
