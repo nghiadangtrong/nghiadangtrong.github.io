@@ -19,7 +19,7 @@ nav.menuTop ul{
 	
 }
 
-ul.menu-right{
+ul.menu-left{
 	
 }
 
@@ -38,6 +38,8 @@ nav.menuTop ul li a{
 
 
 
+
+
 nav.menuTop ul li:hover{
 	background: #ABA9A9;
 }
@@ -50,3 +52,24 @@ section{
 	width: 80%;
 	margin: auto;
 }
+
+.slide{
+	width: 100% !important;
+}
+
+.slide-container{
+	position: relative;
+	width: 300%;
+	overflow: hidden;
+}
+
+.slide-image img{
+	width: 33.333%;
+	display: inline-block;
+}
+
+
+
+
+
+
