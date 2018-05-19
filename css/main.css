@@ -15,12 +15,18 @@ nav{
 	margin: auto;
 }
 
+.menuTop{
+	position:relative;
+	overflow: hidden;
+	min-height: 80px;
+}
+
 nav.menuTop ul{
 	
 }
 
 ul.menu-left{
-	
+	float:left;
 }
 
 nav.menuTop ul li{
@@ -36,9 +42,42 @@ nav.menuTop ul li a{
 	text-decoration: none;
 }
 
+.menu-right{
+	float: right;
+	width: 25px;
+	position:relative;
+	top: 20px;
+	display: none;
+	cursor: pointer;
+	
+}
 
+.menu-right .bar{
+	width: 100%;
+	padding: 1px;
+	background-color: #fff;
+	margin: 5px;
+}
 
+.bar-1, .bar-3{
+	transition: transform .5s;
+}
 
+.bar-2{
+	transition: display 3s;
+}
+
+.activity .bar-1{
+	transform: rotate(45deg) translate(4px,8px);
+}
+
+.activity .bar-2{
+	visibility: hidden;
+}
+
+.activity .bar-3{
+	transform: rotate(-45deg) translate(0px,-8px);
+}
 
 nav.menuTop ul li:hover{
 	background: #ABA9A9;
@@ -59,17 +98,65 @@ section{
 
 .slide-container{
 	position: relative;
-	width: 300%;
+	width: 100%;
 	overflow: hidden;
 }
 
-.slide-image img{
-	width: 33.333%;
-	display: inline-block;
+.slide-image{
+	position: relative;
+	width: 300%;
 }
 
+.slide-image img{
+	width: 33.3333%;
+	float: left;
+}
 
+.list-dot{
+	position: absolute;
+	bottom: 10px;
+	left: 50%;
+}
 
+.list-dot .dot{
+	width:20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: #ffff;
+	margin: 7px;
+	float: left;
+	cursor: pointer;
+}
 
+.list-dot .dot:hover{
+	background-color: #e1e1e1;
+}
 
+.arrow-left{
+	position:absolute;
+	top: 50%;
+	left: 10px;
+	width: 30px;
+	height: 40px;
+	background-color: black;
+}
+
+.arrow-right{
+	position:absolute;
+	top: 50%;
+	right: 10px;
+	width: 30px;
+	height: 40px;
+	background-color: black;
+}
+
+@media screen and ( max-width:  992px) {
+	.menu-left{
+		display: none;
+	}
+
+	.menu-right{
+		display: block;
+	}
+}
 
