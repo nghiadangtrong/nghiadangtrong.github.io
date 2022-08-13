@@ -1,0 +1,20 @@
+/* QL Editor */
+.ql-editor {
+  min-height: 200px;
+}
+
+/* common */
+.border-bottom-grey {
+  border-bottom: 1px solid #f1f1f1;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.unselected {
+  user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+}
