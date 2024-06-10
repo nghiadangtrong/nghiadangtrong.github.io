@@ -16,5 +16,5 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
 
-# Make save
+# Make safe
 - [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening)
