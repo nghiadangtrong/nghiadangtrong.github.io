@@ -1,6 +1,6 @@
-# https://github.com/nghiadangtrong/nghiadangtrong.github.io/blob/master/README.md
+#
 
-# Target read source
+## Target read source
 
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-bittorrent-client)
