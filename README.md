@@ -1,4 +1,4 @@
-# 
+# https://github.com/nghiadangtrong/nghiadangtrong.github.io/blob/master/README.md
 
 # Target read source
 
@@ -19,6 +19,10 @@
 ## CTF
 
 - [https://0xdf.gitlab.io/](https://0xdf.gitlab.io/)
+
+## Read Blog
+
+- [https://testing.googleblog.com](https://testing.googleblog.com)
 
 # Make safe
 - [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening)
