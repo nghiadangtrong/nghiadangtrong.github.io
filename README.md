@@ -28,3 +28,4 @@
 ## Cheat sheets
 
 - [https://quickref.me/](https://quickref.me/)
+- [https://it-tools.tech/](https://it-tools.tech/)
