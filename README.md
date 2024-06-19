@@ -22,5 +22,9 @@
 
 - [https://testing.googleblog.com](https://testing.googleblog.com)
 
-# Make safe
+## Make safe
 - [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening)
+
+## Cheat sheets
+
+- [https://quickref.me/](https://quickref.me/)
