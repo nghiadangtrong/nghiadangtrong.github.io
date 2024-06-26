@@ -13,6 +13,7 @@
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 ## CTF
 
