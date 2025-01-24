@@ -1,4 +1,4 @@
-## Target read source
+## Source
 
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-bittorrent-client)
@@ -19,7 +19,7 @@
 
 - [https://0xdf.gitlab.io/](https://0xdf.gitlab.io/)
 
-## Read Blog
+## Blog
 
 - [https://testing.googleblog.com](https://testing.googleblog.com)
 
